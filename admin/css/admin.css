@@ -1,0 +1,27 @@
+table.dff-admin td form {
+    display: inline;
+}
+
+table.widefat.dff-admin tbody td {
+    vertical-align: middle;
+}
+
+td.share-controls {
+    white-space: nowrap;
+}
+
+form[id^=dff] input, form[id^=dff] select, form[id^=dff] span {
+    height: 2em;
+    vertical-align: middle;
+}
+
+.button.button-alert {
+    background-color: #C93535;
+    border-color: #B33333;
+    color: #fff;
+}
+
+.button.button-alert:hover {
+    background-color: #B33333;
+    color: #fff;
+}

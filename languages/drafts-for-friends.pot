@@ -1,0 +1,215 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-12 19:37+1000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#. #-#-#-#-#  drafts-for-friends.pot (Drafts for Friends 3.0)  #-#-#-#-#
+#: includes/admin/class-dff-admin-controller.php:29
+#: includes/admin/class-dff-admin-controller.php:30
+msgid "is not a valid unit"
+msgstr ""
+
+#: includes/admin/class-dff-admin-controller.php:84
+#: includes/admin/class-dff-admin-controller.php:111
+#: includes/admin/class-dff-admin-controller.php:142
+#: includes/admin/class-dff-admin-controller.php:168
+#: includes/admin/class-dff-admin-controller.php:221
+#: includes/admin/class-dff-admin-controller.php:241
+msgid "Unable to share post, invalid parameters"
+msgstr ""
+
+#: includes/admin/class-dff-admin-controller.php:65
+#: includes/admin/class-dff-admin-controller.php:100
+msgid "There is no such post!"
+msgstr ""
+
+#: includes/admin/class-dff-admin-controller.php:68
+#: includes/admin/class-dff-admin-controller.php:103
+msgid "The post is already published!"
+msgstr ""
+
+#: includes/admin/class-dff-admin-controller.php:92
+#: includes/admin/class-dff-admin-controller.php:178
+#: includes/admin/class-dff-admin-controller.php:231
+msgid "Invalid security token, please refresh the page and try again"
+msgstr ""
+
+#: includes/admin/class-dff-admin-controller.php:102
+#: includes/admin/class-dff-admin-controller.php:139
+msgid "The post is being shared"
+msgstr ""
+
+#: includes/admin/class-dff-admin-controller.php:105
+#: includes/admin/class-dff-admin-controller.php:142
+msgid "Unable to share post, couldn't persist options to database"
+msgstr ""
+
+#: includes/admin/class-dff-admin-controller.php:124
+#: includes/admin/class-dff-admin-controller.php:186
+msgid "Post isn't shared"
+msgstr ""
+
+#: includes/admin/class-dff-admin-controller.php:128
+#: includes/admin/class-dff-admin-controller.php:190
+msgid "Post has been unshared"
+msgstr ""
+
+#: includes/admin/class-dff-admin-controller.php:130
+#: includes/admin/class-dff-admin-controller.php:192
+msgid "Unknown error occurred"
+msgstr ""
+
+#: includes/admin/class-dff-admin-controller.php:186
+#: includes/admin/class-dff-admin-controller.php:272
+msgid "The share has been extended"
+msgstr ""
+
+#: includes/admin/class-dff-admin-controller.php:189
+#: includes/admin/class-dff-admin-controller.php:275
+msgid "Unable to extend share, couldn't persist options to database"
+msgstr ""
+
+#: includes/admin/class-dff-admin-view.php:52
+#: includes/admin/class-dff-admin-view.php:52
+msgid "Unknown expiry"
+msgstr ""
+
+#: includes/admin/class-dff-admin-view.php:59
+#: includes/admin/class-dff-admin-view.php:59
+msgid "Expired"
+msgstr ""
+
+#: includes/admin/class-dff-admin-view.php:85
+msgid "%s second remaining"
+msgid_plural "%s seconds remaining"
+msgstr[0] ""
+
+#: includes/admin/class-dff-admin-view.php:85
+msgid "%s minute remaining"
+msgid_plural "%s minutes remaining"
+msgstr[0] ""
+
+#: includes/admin/class-dff-admin-view.php:85
+msgid "%s hour remaining"
+msgid_plural "%s hours remaining"
+msgstr[0] ""
+
+#: includes/admin/class-dff-admin-view.php:85
+msgid "%s day remaining"
+msgid_plural "%s days remaining"
+msgstr[0] ""
+
+#. Plugin Name
+#: includes/admin/class-dff-admin-view.php:102
+#: includes/admin/class-dff-admin.php:36
+#: includes/admin/class-dff-admin-view.php:102
+#: includes/admin/class-dff-admin.php:39
+msgid "Drafts for Friends"
+msgstr ""
+
+#: includes/admin/class-dff-admin-view.php:124
+#: includes/admin/class-dff-admin-view.php:124
+msgid "Not Shared"
+msgstr ""
+
+#: includes/admin/class-dff-admin-view.php:146
+#: includes/admin/class-dff-admin-view.php:146
+msgid "Extend"
+msgstr ""
+
+#: includes/admin/class-dff-admin-view.php:153
+#: includes/admin/class-dff-admin-view.php:190
+#: includes/admin/class-dff-admin-view.php:153
+#: includes/admin/class-dff-admin-view.php:196
+msgid "seconds"
+msgstr ""
+
+#: includes/admin/class-dff-admin-view.php:156
+#: includes/admin/class-dff-admin-view.php:193
+#: includes/admin/class-dff-admin-view.php:156
+#: includes/admin/class-dff-admin-view.php:199
+msgid "minutes"
+msgstr ""
+
+#: includes/admin/class-dff-admin-view.php:159
+#: includes/admin/class-dff-admin-view.php:196
+#: includes/admin/class-dff-admin-view.php:159
+#: includes/admin/class-dff-admin-view.php:202
+msgid "hours"
+msgstr ""
+
+#: includes/admin/class-dff-admin-view.php:162
+#: includes/admin/class-dff-admin-view.php:199
+#: includes/admin/class-dff-admin-view.php:162
+#: includes/admin/class-dff-admin-view.php:205
+msgid "days"
+msgstr ""
+
+#: includes/admin/class-dff-admin-view.php:172
+#: includes/admin/class-dff-admin-view.php:175
+msgid "Stop Sharing"
+msgstr ""
+
+#: includes/admin/class-dff-admin-view.php:183
+#: includes/admin/class-dff-admin-view.php:189
+msgid "Share Draft"
+msgstr ""
+
+#: includes/admin/class-dff-admin-view.php:203
+#: includes/admin/class-dff-admin-view.php:212
+msgid "Cancel"
+msgstr ""
+
+#: includes/admin/class-dff-admin-view.php:233
+#: includes/admin/class-dff-admin-view.php:242
+msgid "ID"
+msgstr ""
+
+#: includes/admin/class-dff-admin-view.php:234
+#: includes/admin/class-dff-admin-view.php:243
+msgid "Title"
+msgstr ""
+
+#: includes/admin/class-dff-admin-view.php:235
+#: includes/admin/class-dff-admin-view.php:244
+msgid "Link"
+msgstr ""
+
+#: includes/admin/class-dff-admin-view.php:237
+#: includes/admin/class-dff-admin-view.php:246
+msgid "Expires After"
+msgstr ""
+
+#: includes/admin/class-dff-admin-view.php:240
+#: includes/admin/class-dff-admin-view.php:249
+msgid "Actions"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "http://automattic.com/"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Now you don't need to dd friends as users to the blog in order to let them "
+"preview your drafts"
+msgstr ""
+
+#. Author of the plugin
+msgid "Dan Jones"
+msgstr ""
